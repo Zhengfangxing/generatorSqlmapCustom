@@ -1,0 +1,2 @@
+# generatorSqlmapCustom
+IDEA开发MyBatis逆向工程
